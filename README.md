@@ -7,7 +7,6 @@
 I am a <b>Software Engineer</b> at the <a href="https://codephilics.com.au/">Codephilics</a>.
 </p>
 
-[Personal website](https://syedirfan.netlify.app/)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=erfanx&show_icons=true&hide_border=true)
 <!--
