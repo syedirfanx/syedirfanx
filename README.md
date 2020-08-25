@@ -1,4 +1,13 @@
 ### Hi there 👋
+# This is Syed Irfan
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:irfansyed479@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syedirfanx/)
+
+<p1 align="justify">
+I am a <b>Software Engineer</b> at the <a href="https://codephilics.com.au/" target="_blank">Codephilics</a>.
+</p1>
+
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=erfanx&show_icons=true&hide_border=true)
 <!--
 **Erfanx/Erfanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
