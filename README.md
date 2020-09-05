@@ -8,7 +8,7 @@ I am a <b>Software Engineer</b> at the <a href="https://codephilics.com.au/">Cod
 </p>
 
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=erfanx&show_icons=true&hide_border=false)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=syedirfanx&show_icons=true&hide_border=false)
 <!--
 **Erfanx/Erfanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
