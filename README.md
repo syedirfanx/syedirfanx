@@ -1,7 +1,7 @@
 ### Hi there 👋
 # This is Syed Irfan
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:irfansyed479@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/syedirfanx/)
+
+
 
 <p align="left">
 I am a <b>Software Engineer</b> at the <a href="https://codephilics.com.au/">Codephilics</a>.
