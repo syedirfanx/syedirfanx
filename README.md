@@ -10,7 +10,7 @@ I am a <b>Software Engineer</b> at the <a href="https://codephilics.com.au/">Cod
 [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/syedirfanx)
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=syedirfanx&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedirfanx&layout=compact&langs_count=10&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedirfanx&layout=compact&langs_count=12&show_icons=true&hide_border=true)
 
 <!--
 **Erfanx/Erfanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
