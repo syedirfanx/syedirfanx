@@ -1,6 +1,8 @@
 ### Hello World 🌏
 # This is Syed Irfan
 
+<img src="world.gif" width=100%/>
+
 - 💻 I’m currently learning Cybersecurity Tools & Cyber Attacks.
 - 🔭 Find my top favorites [here](https://syedirfanx.me/myfavourites).
 - 🤓 Interested in: Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning, Data Science, Software Engineering & Development etc.
