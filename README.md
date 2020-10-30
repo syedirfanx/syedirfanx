@@ -12,6 +12,7 @@
 
 - 🔭 Find my top favorites [here](https://syedirfanx.me/myfavourites).
 - 🌱 I’m currently learning Cybersecurity Tools & Cyber Attacks.
-- 👯 Continuously observing Human Psychology.
+- 🤓 Interested in: Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning, Data Science, Software Engineering & Development etc.
+- 🤯 Other Interests: Painting, Travelling, Human Psychology etc.
 
 
