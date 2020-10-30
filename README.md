@@ -10,7 +10,7 @@
 
 
 
-- 🔭 Know my top favorites [here](https://syedirfanx.me/myfavourites).
+- 🔭 Find my top favorites [here](https://syedirfanx.me/myfavourites).
 - 🌱 I’m currently learning Cybersecurity Tools & Cyber Attacks.
 - 👯 Continuously observing Human Psychology.
 
