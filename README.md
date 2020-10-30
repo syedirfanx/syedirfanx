@@ -1,4 +1,4 @@
-### Hello World 💻
+### Hello World 🌏
 # This is Syed Irfan
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfansyed479@gmail.com)
@@ -9,9 +9,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedirfanx&layout=compact&langs_count=12&show_icons=true&hide_border=true&hide=scss,tex)
 
 
-
+- 💻 I’m currently learning Cybersecurity Tools & Cyber Attacks.
 - 🔭 Find my top favorites [here](https://syedirfanx.me/myfavourites).
-- 🌱 I’m currently learning Cybersecurity Tools & Cyber Attacks.
 - 🤓 Interested in: Artificial Intelligence, Machine Learning, Neural Networks, Deep Learning, Data Science, Software Engineering & Development etc.
 - 🤯 Other Interests: Painting, Travelling, Human Psychology etc.
 
