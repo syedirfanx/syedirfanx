@@ -1,6 +1,7 @@
 ### Hello World 🌏
 # This is Syed Irfan
 
+### Find me around the web:
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfansyed479@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedirfanx/)
 [![Dev](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/syedirfanx)
