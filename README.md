@@ -12,7 +12,6 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=syedirfanx&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedirfanx&layout=compact&langs_count=12&show_icons=true&hide_border=true&hide=scss,tex)
 
-![](https://komarev.com/ghpvc/?username=syedirfanx&color=green)
 
 ### Find me around the web:
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:irfansyed479@gmail.com)
