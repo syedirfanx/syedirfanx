@@ -1,6 +1,6 @@
 ## Hello World 🌏
 ### This is Syed Irfan
-
+- Computer Science Undergradute
 - Interested in: Data Science, Analytics and Machine Learning
 - Have more than a year of experience in working at software companies
 - Love to work with Python
