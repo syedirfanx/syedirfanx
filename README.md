@@ -1,9 +1,8 @@
 ### Hello World 🌏
 # This is Syed Irfan
-- Interested in: Data Science, Analytics and Machine Learning.
-- Other Interests: Cryptography, Human Psychology etc.
-- Find my top favorites [here](https://syedirfan.netlify.app/myfavourites).
-
+- Interested in: Data Science, Analytics and Machine Learning
+- Other Interests: Cryptography, Human Psychology
+- Find my top favorites [here](https://syedirfan.netlify.app/myfavourites)
 
 ### Find me around the web:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedirfanx/)
