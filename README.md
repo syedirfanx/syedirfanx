@@ -1,8 +1,8 @@
 ### Hello World 🌏
 # This is Syed Irfan
-- 🔭 Find my top favorites [here](https://syedirfanx.me/myfavourites).
-- 🤓 Interested in: Artificial Intelligence, Machine Learning, Android Development and Data Science etc.
-- 😄 Other Interests: Painting, Travelling, Human Psychology etc.
+- Find my top favorites [here](https://syedirfan.netlify.app/myfavourites).
+- Interested in: Data Science, Analytics and Machine Learning.
+- Other Interests: Painting, Travelling, Human Psychology etc.
 
 
 
