@@ -1,6 +1,6 @@
 ## Hello World 🌏
 ### This is Syed Irfan
-I am a **Computer Science** Undergraduate, have experience in working as a **Software Engineer** for more than a year. My fields of interest are **Data Science**, **Analytics**, and **Machine Learning**. I love to work with **Python** and also like to play with data, as data is everywhere and it has a great impact on the world right now. My other fields of interest are **Cryptography**, **Astronomy** and **Human Psychology**.
+I am a **Computer Science** Graduate, have experience in working as a **Software Engineer** for more than a year. My fields of interest are **Data Science**, **Analytics**, and **Machine Learning**. I love to work with **Python** and also like to play with data, as data is everywhere and it has a great impact on the world right now. My other fields of interest are **Cryptography**, **Astronomy** and **Human Psychology**.
 
 
 ### Find me around the web
