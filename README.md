@@ -1,5 +1,5 @@
 ## 🌏Hello World
-This is **Syed Irfan**. I am a **Computer Science** Graduate, currently pursuing my masters degree **MSc Data Science** at the **University of Greenwich**, with experience of more than a year in **Software Development & Project Implementation**. My fields of interest are **Data Science**, **Analytics**, and **Machine Learning**. I love to work with **Python** and also like to play with data, as data is everywhere and it has a great impact on the world right now. My other fields of interest are **Cryptography**, **Astronomy** and **Human Psychology**.
+This is **Syed Irfan**, an **MSc Data Science** graduate, passionate about **Data Science**, **Analytics**, and **Machine Learning**. I love working with **Python** to manipulate and analyze data. I strive to leverage my skills and knowledge to solve complex problems and make a positive impact in the world. My other fields of interest are **FinTech**, **Cryptography**, **Astronomy**, and **Human psychology**.
 
 
 ## 🔎Find me around the web
