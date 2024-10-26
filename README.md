@@ -1,5 +1,5 @@
 ## Hello World
-This is **Syed Irfan**, an **MSc Data Science** graduate, passionate about **Data Science**, **Analytics**, and **Machine Learning**. I love working with **Python** to manipulate and analyze data. I strive to leverage my skills and knowledge to solve complex problems and make a positive impact in the world. My other fields of interest are **FinTech**, **Cryptography**, **Astronomy**, and **Human psychology**.
+This is **Syed Irfan**
 
 
 ## Find me around the web
