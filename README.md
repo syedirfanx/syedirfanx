@@ -1,9 +1,18 @@
-## Hello World
-This is **Syed Irfan**
+# 👋 Hello World
 
+I'm **Syed Irfan** — passionate about **Data Science**, **AI**, and building things that matter.
 
-## Find me around the web
-- [LinkedIn](https://www.linkedin.com/in/syedirfanx/)
-- [Google Scholar](https://scholar.google.com/citations?user=MG9ta8wAAAAJ&hl=en)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedirfanx/)
-[![Dev](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/syedirfanx) -->
+---
+
+## 🌐 Find Me Around the Web
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedirfanx/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MG9ta8wAAAAJ&hl=en)
+
+---
+
+🎓 **MSc Data Science** @ _University of Greenwich, London_  
+🎓 **BSc Computer Science** @ _North South University, Dhaka_
+
+🧭 _"Noise fades, but the vision stays clear."_
+
