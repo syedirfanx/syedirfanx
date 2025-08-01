@@ -1,6 +1,6 @@
 # Hello World
 
-This is **Syed Irfan** — passionate about **Data Science**, **AI**, and building things that matter.
+This is **Syed Irfan** — passionate about building things that matter.
 
 ---
 
