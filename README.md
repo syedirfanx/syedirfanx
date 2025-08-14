@@ -14,5 +14,3 @@ This is **Syed Irfan** — passionate about building things that matter.
 🎓 **MSc Data Science** @ _University of Greenwich, London_  
 🎓 **BSc Computer Science** @ _North South University, Dhaka_
 
-_Noise fades, but the vision stays clear._
-
